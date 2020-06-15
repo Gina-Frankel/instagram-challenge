@@ -1,0 +1,5 @@
+
+<%= form_with(url: posts_path, scope: :post, local: true)  do |f| %>
+  <%= f.file_field :image %>
+  <%= f.submit %>
+<% end %>

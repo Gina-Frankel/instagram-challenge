@@ -1,0 +1,9 @@
+<h1> instaposts </h1>
+
+<%= @posts.each do |post|%>%
+  <%= image_tag post.image %>
+<% end %>
+
+
+<%# <%= image_tag url_for(@post.image) %> 
+

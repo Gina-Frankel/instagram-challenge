@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+# Update 
+-  Readme with ruby version, system depedencies and configuration 

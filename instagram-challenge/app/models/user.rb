@@ -13,7 +13,13 @@ class User < ApplicationRecord
 
 #Returns the hash digest of the given string
 # the digest method does not need an instance of the object so it made into a class method 
-  def self.digest(string)
+  
+
+
+
+
+
+def self.digest(string)
     cost = ActiveModel::SecurePassword.min_cost ? BCrypt::Engine::MIN_COST: BCrypt::Engine.cost
     BCrypt::Password.create(string, cost: cost)
   end 

@@ -7,6 +7,12 @@
           null
         ]
       },
+      "/Users/ginafrankel/Projects/weekend_challenge/instagram-challenge/instagram-challenge/app/helpers/posts_helper.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
       "/Users/ginafrankel/Projects/weekend_challenge/instagram-challenge/instagram-challenge/app/helpers/sessions_helper.rb": {
         "lines": [
           1,
@@ -97,6 +103,12 @@
           null,
           null,
           null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
           1,
           0,
           0,
@@ -119,6 +131,44 @@
         ]
       },
       "/Users/ginafrankel/Projects/weekend_challenge/instagram-challenge/instagram-challenge/app/models/application_record.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/ginafrankel/Projects/weekend_challenge/instagram-challenge/instagram-challenge/app/controllers/posts_controller.rb": {
+        "lines": [
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/ginafrankel/Projects/weekend_challenge/instagram-challenge/instagram-challenge/app/models/post.rb": {
         "lines": [
           1,
           1,
@@ -169,6 +219,6 @@
         }
       }
     },
-    "timestamp": 1589181054
+    "timestamp": 1589358781
   }
 }
